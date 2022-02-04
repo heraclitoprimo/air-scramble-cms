@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "The new generation in P2E"
+subtitle: Get ready for the ultimate battle!
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
